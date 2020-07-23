@@ -8,7 +8,7 @@ Uses backtracking for permutation creation, the algorithm to which was reference
 > https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/ 
 
 \
-Stores the program outputs in different files and so uses basic file I/O operations for the purpose of storing huge volume of generated permutations list.The text files are included with some pre-run values so the developer can get an idea about what data goes into which file.\
+Stores the program outputs in different files and so uses basic file I/O operations for the purpose of storing huge volume of generated permutations list. *The text files are included with some pre-run values so the developer can get an idea about what data goes into which file.*\
 \
 Uses binary search operation to check the generated permutations against a pre-defined dictionary of meaningful words.
 
